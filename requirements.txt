@@ -1,0 +1,7 @@
+pandas
+torch
+sklearn
+matplotlib
+numpy
+notebook
+xgboost
